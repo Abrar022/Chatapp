@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019162225965",
+    "project_id": "chatapp-6c28f",
+    "storage_bucket": "chatapp-6c28f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019162225965:android:74c3e8c33f4280f83237a4",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.thanh0456.zaloclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkCwryWVguJ7O9WUO8fhvY5Um3ajV5Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
